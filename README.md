@@ -5,18 +5,18 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+1.while
+2.int
+3.not
+4.if
+5. <
+6. Randomly
+7. = 
+8.10
+9. - 
+10. amount
+11. Thank
+12. +
 
 **Word Bank**
 - variable
